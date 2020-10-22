@@ -1,0 +1,8 @@
+D:\Zadaca\OOP\DZ\Episode\bin\Debug\netstandard2.0\Episode.deps.json
+D:\Zadaca\OOP\DZ\Episode\bin\Debug\netstandard2.0\Episode.dll
+D:\Zadaca\OOP\DZ\Episode\bin\Debug\netstandard2.0\Episode.pdb
+D:\Zadaca\OOP\DZ\Episode\obj\Debug\netstandard2.0\Episode.csprojAssemblyReference.cache
+D:\Zadaca\OOP\DZ\Episode\obj\Debug\netstandard2.0\Episode.AssemblyInfoInputs.cache
+D:\Zadaca\OOP\DZ\Episode\obj\Debug\netstandard2.0\Episode.AssemblyInfo.cs
+D:\Zadaca\OOP\DZ\Episode\obj\Debug\netstandard2.0\Episode.dll
+D:\Zadaca\OOP\DZ\Episode\obj\Debug\netstandard2.0\Episode.pdb
