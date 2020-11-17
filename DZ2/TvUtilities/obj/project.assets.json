@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zadaca\\OOP\\DZ2\\Description\\Description.csproj",
-      "projectName": "Description",
-      "projectPath": "D:\\Zadaca\\OOP\\DZ2\\Description\\Description.csproj",
+      "projectUniqueName": "D:\\Zadaca\\OOP\\DZ2\\TvUtilities\\TvUtilities.csproj",
+      "projectName": "TvUtilities",
+      "projectPath": "D:\\Zadaca\\OOP\\DZ2\\TvUtilities\\TvUtilities.csproj",
       "packagesPath": "C:\\Users\\aname\\.nuget\\packages\\",
-      "outputPath": "D:\\Zadaca\\OOP\\DZ2\\Description\\obj\\",
+      "outputPath": "D:\\Zadaca\\OOP\\DZ2\\TvUtilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aname\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\TvUtilities.deps.json
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\TvUtilities.dll
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\TvUtilities.pdb
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\Description.dll
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\Episode.dll
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\Description.pdb
+D:\Zadaca\OOP\DZ\TvUtilities\bin\Debug\netstandard2.0\Episode.pdb
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.csprojAssemblyReference.cache
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.AssemblyInfoInputs.cache
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.AssemblyInfo.cs
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.csproj.CopyComplete
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.dll
+D:\Zadaca\OOP\DZ\TvUtilities\obj\Debug\netstandard2.0\TvUtilities.pdb

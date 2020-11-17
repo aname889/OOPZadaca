@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Description">
+      <HintPath>..\Description\bin\Debug\netstandard2.0\Description.dll</HintPath>
+    </Reference>
+    <Reference Include="Episode">
+      <HintPath>..\Episode\bin\Debug\netstandard2.0\Episode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
