@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ3", "DZ3\DZ3.csproj", "{BBFFC4AF-4C1B-4324-A26E-563841B4225E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{578CFD28-2554-40B0-BBFE-D9549689DBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFFC4AF-4C1B-4324-A26E-563841B4225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFFC4AF-4C1B-4324-A26E-563841B4225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFFC4AF-4C1B-4324-A26E-563841B4225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFFC4AF-4C1B-4324-A26E-563841B4225E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578CFD28-2554-40B0-BBFE-D9549689DBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578CFD28-2554-40B0-BBFE-D9549689DBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578CFD28-2554-40B0-BBFE-D9549689DBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578CFD28-2554-40B0-BBFE-D9549689DBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416BCB29-E89F-4312-8782-9FE6D45E1A7B}
+	EndGlobalSection
+EndGlobal
