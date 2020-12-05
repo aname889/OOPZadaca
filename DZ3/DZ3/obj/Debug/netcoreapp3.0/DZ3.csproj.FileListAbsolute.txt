@@ -1,0 +1,14 @@
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.csprojAssemblyReference.cache
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.AssemblyInfoInputs.cache
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.AssemblyInfo.cs
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.exe
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.deps.json
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.runtimeconfig.json
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.runtimeconfig.dev.json
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.dll
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\DZ3.pdb
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\ClassLibrary.dll
+D:\Zadaca\OOP\DZ3\DZ3\bin\Debug\netcoreapp3.0\ClassLibrary.pdb
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.csproj.CopyComplete
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.dll
+D:\Zadaca\OOP\DZ3\DZ3\obj\Debug\netcoreapp3.0\DZ3.pdb
