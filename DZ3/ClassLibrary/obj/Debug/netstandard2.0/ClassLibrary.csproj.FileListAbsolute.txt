@@ -1,0 +1,8 @@
+D:\Zadaca\OOP\DZ2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\Zadaca\OOP\DZ2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\Zadaca\OOP\DZ2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\Zadaca\OOP\DZ2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\Zadaca\OOP\DZ2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Zadaca\OOP\DZ2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\Zadaca\OOP\DZ2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\Zadaca\OOP\DZ2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
